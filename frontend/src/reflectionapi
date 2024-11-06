@@ -1,0 +1,21 @@
+pour le site il faut :
+
+Table Utilisateurs
+
+id
+nom
+prenom
+email
+mot_de_passe
+
+Table Objets
+
+id
+titre
+utilisateur_id
+
+Table Contacts
+
+id
+contact_id
+utilisateur_id
